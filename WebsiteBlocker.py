@@ -2,7 +2,7 @@ from datetime import datetime
 
 
 sites_to_block = [
-    'www.foxnews.com','74.120.97.0'
+    'www.foxnews.com','74.120.97.0', 'www.cnn.com', '157.166.226.25'
 ]
 
 Window_host = r"C:\Windows\System32\drivers\etc\hosts"
